@@ -1,5 +1,0 @@
-name: vpython
-dependencies:
--numpy
--vpython
--python
